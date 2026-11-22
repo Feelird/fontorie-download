@@ -1,0 +1,31 @@
+THIRD-PARTY SOFTWARE NOTICES
+ふぉんとりえに含まれる第三者ソフトウェアについて
+本ソフトウェアは、以下の第三者ソフトウェアを利用しています。
+
+## Mozilla Public License 2.0 (MPL-2.0)
+
+以下のパッケージは、Cargo.tomlにMPL-2.0と記載されています。
+
+### cssparser 0.37.0
+- Authors: Simon Sapin
+- Repository: https://github.com/servo/rust-cssparser
+
+### cssparser-macros 0.7.1
+- Authors: Simon Sapin
+- Repository: https://github.com/servo/rust-cssparser
+
+### selectors 0.38.0
+- Authors: The Servo Project Developers
+- Repository: https://github.com/servo/stylo
+
+### dtoa-short 0.3.5
+- Authors: Xidorn Quan
+- Repository: https://github.com/upsuper/dtoa-short
+
+### option-ext 0.2.0
+- Authors: Simon Ochsenreither
+- Repository: https://github.com/soc/option-ext
+
+各パッケージのソースコードは、同梱の `third-party-sources` フォルダから確認できます。
+MPL-2.0のライセンス本文は `third-party-sources/MPL-2.0.txt` を参照してください。
+各パッケージは、それぞれのライセンス条件に従って提供されます。
