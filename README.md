@@ -70,7 +70,7 @@ NSIS版では、アンインストール時にユーザーデータを削除す�
 ## 公式サイト・お問い合わせ
 ふぉんとりえの詳細や最新情報は、公式サイトをご覧ください。
 
-- 公式サイト：https://fontrie.fujidana.workers.dev
+- 公式サイト：https://fontorie.fujidana.workers.dev
 - お問い合わせフォーム：https://forms.gle/t7JEGHPeSqeuEnBr9
 
 不具合の報告やご質問なども、お問い合わせフォームからお送りいただけます。
