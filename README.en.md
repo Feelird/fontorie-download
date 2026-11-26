@@ -70,7 +70,7 @@ Each third-party component is provided under its respective license terms.
 ## Official Website and Contact
 For more information and updates, please visit the official website.
 
-- Official Website: https://fontrie.fujidana.workers.dev
+- Official Website: https://fontorie.fujidana.workers.dev
 - Contact Form: https://forms.gle/t7JEGHPeSqeuEnBr9
 
 Please use the contact form for bug reports and inquiries.
